@@ -1,0 +1,9 @@
+{
+  "name": "Remix: Perícia Contábil — Prestação de Contas",
+  "description": "Sistema especializado para suporte técnico em perícia de prestação de contas judicial, administrativa e privada, seguindo normas do CPC, TCU e Código Civil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "data-analysis",
+    "forensic-accounting"
+  ]
+}
